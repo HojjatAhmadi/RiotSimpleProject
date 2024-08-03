@@ -1,7 +1,7 @@
 # simple project with riot
-I have create this project just for practise with riot.js ;)
+I have created this project just for practice with riot.js ;)
 
-for run this project just use this commend in your terminal :
+for running this project just use this command in your terminal:
 ```sh
 npm run dev
 ```
